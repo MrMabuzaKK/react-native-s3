@@ -35,7 +35,7 @@ This project integrates a React Native front-end with an AWS Amplify back-end th
 1. Clone this repo to your local machine.
 
 ```
-git clone https://github.com/jtaylor1989/react-native-s3.git
+git clone https://github.com/MrMabuzaKK/react-native-s3.git
 
 cd react-native-s3
 ```
@@ -116,4 +116,4 @@ expo start --android
 
 ## Source
 
-Based off a project by [Younes Henni](https://github.com/jtaylor1989/react-native-s3)
+Based off a project by [Kulani Mabuza](https://github.com/MrMabuzaKK/react-native-s3)
